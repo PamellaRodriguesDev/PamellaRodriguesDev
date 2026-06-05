@@ -48,17 +48,14 @@ Profissional em transição para a área de Tecnologia, unindo experiência em n
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,javascript,html,css" />
 
 ### Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### Dados
 
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
