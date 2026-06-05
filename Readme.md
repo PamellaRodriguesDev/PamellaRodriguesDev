@@ -60,16 +60,19 @@ Tenho mais de 10 anos de experiência no setor financeiro, atuando com análise 
 
 ---
 
-# 🌟 Meu Diferencial
 
 <div align="center">
 
-| Negócios | Dados | Tecnologia |
-|-----------|-----------|-----------|
-| Mercado Financeiro | SQL | Python |
-| Relacionamento com Clientes | Power BI | JavaScript |
-| Vendas Consultivas | Dashboards | Full Stack |
-| Análise de Resultados | Analytics | Automação |
+## 🚀 Minha Combinação de Competências
+
+| 💼 Negócios | 📊 Dados | 💻 Tecnologia |
+|------------|----------|---------------|
+| +10 anos no Mercado Financeiro | SQL | Python |
+| Vendas Consultivas | Power BI | JavaScript |
+| Relacionamento com Clientes | Dashboards e KPIs | HTML & CSS |
+| Gestão de Carteira e Resultados | Análise de Dados | Desenvolvimento Full Stack |
+| Experiência do Cliente | Data Analytics | Automação |
+| Visão Estratégica | Storytelling com Dados | Solução de Problemas |
 
 </div>
 
@@ -86,8 +89,6 @@ Tenho mais de 10 anos de experiência no setor financeiro, atuando com análise 
 ---
 
 <div align="center">
-
-### 👾 Pac-Man Eating Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
