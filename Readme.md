@@ -18,17 +18,15 @@
 
 # 👩‍💻 Sobre Mim
 
-Profissional em transição para a área de Tecnologia, unindo experiência em negócios, mercado financeiro e análise de resultados com Desenvolvimento Full Stack e Análise de Dados.
+💻 Desenvolvedora Full Stack formada e futura Cientista de Dados em construção.
 
-🎓 Desenvolvedora Full Stack
+Tenho mais de 10 anos de experiência no setor financeiro, atuando com análise de resultados, processos corporativos, sistemas de gestão e suporte a decisões estratégicas. Minha trajetória em instituições como Itaú Unibanco e Banco Mercantil do Brasil desenvolveu uma forte visão de negócios que hoje complemento com competências em tecnologia e dados.
 
-📊 Analista de Dados
+🚀 Tecnologias: Python, SQL, JavaScript, HTML, CSS e Lógica de Programação.
 
-🏦 Experiência no mercado financeiro
+📊 Interesses: Data Analytics, Business Intelligence, Ciência de Dados, Inteligência Artificial e Desenvolvimento Full Stack.
 
-📈 Data Driven Mindset
-
-🚀 Interesse em IA, Analytics, BI e Engenharia de Software
+💡 Acredito no poder da tecnologia para transformar dados em decisões e processos em soluções. Meu objetivo é unir conhecimento de negócio, análise de dados e desenvolvimento de software para criar produtos e experiências que gerem valor real.
 
 ---
 
@@ -80,10 +78,8 @@ Profissional em transição para a área de Tecnologia, unindo experiência em n
 # 💣 Contribution Zone
 
 <div align="center">
-
-### Bomberman Exploding Commits
-
-<img src="bombergirl.png" width="85%">
+  
+<img src="bomberman_commit.gif" width="85%">
 
 </div>
 
