@@ -44,20 +44,26 @@ Tenho mais de 10 anos de experiência no setor financeiro, atuando com análise 
 
 <div align="center">
 
-### Linguagens
+### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
-### Desenvolvimento
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" />
+
+### ⚙️ Ferramentas de Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### Dados
+### 📊 Dados & BI
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
 
+---
 ---
 
 
@@ -83,18 +89,6 @@ Tenho mais de 10 anos de experiência no setor financeiro, atuando com análise 
 <div align="center">
   
 <img src="bomberman_commit.gif" width="85%">
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-</picture>
 
 </div>
 
